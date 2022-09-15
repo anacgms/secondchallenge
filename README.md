@@ -1,2 +1,0 @@
-# secondchallenge
-Created with CodeSandbox
